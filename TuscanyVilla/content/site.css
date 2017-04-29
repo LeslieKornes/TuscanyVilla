@@ -1,0 +1,31 @@
+﻿html, body {
+    height: 100%;
+     background-color:#717893;
+}
+
+.navbarColor {
+    background-color:#717893;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+
+.navbar {
+    padding: 0;
+    margin: 0px;
+    border-width:0px;
+}
+
+.glyphicon.glyphicon-home {
+    color: white;
+}
+
+.container-fluid {
+    height:100%;
+    padding-left: 0px;
+    margin-left:0;
+}
+
+
+
