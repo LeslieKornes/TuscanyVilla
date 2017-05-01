@@ -2,6 +2,8 @@
   overflow-x: hidden;
 }
 
+/*NAVBAR*/
+
 .navbarColor {
     background-color:#717893;
 }
@@ -43,6 +45,9 @@
     color:white;
 }
 
+
+/*PURPLE DESCRIPTION BARS*/
+
 .descriptionBar {
     text-align:center;
     margin-top:0;
@@ -52,9 +57,10 @@
     color:white;
 }
 
-
+/*LOCATIONS*/
 .locBarsOneAndThree {
     margin:70px;
+     margin-bottom:70px;
 }
 
 .barOneAndThree {
@@ -66,7 +72,6 @@
 
 .locBarTwo {
    background-color:#717893;
-   margin:50px 0px;
 }
 
 .barTwoPic {
@@ -81,7 +86,60 @@
     text-align:justify;
 }
 
+/*CHECKERBOARD*/
+
+.checkerboardTopRow {
+    margin-top:90px;
+}
+
+.checkerboardRowOneAndThree {
+    margin-right:70px;
+    margin-left:70px;
+    height:100%;
+}
+
+.checkerboxButton h3 {
+    margin-left:15px;
+   margin-top:130px;
+   color:white;
+   max-width:160px;
+   text-align:center;
+   background-color:#717893;
+   opacity:.7;
+}
+.cover {
+    object-fit:cover;
+}
+
 .checkerboxes {
+    margin-top:100px;
+    text-align: center;
+    color:#717893;
+}
+
+.checkerboxButton p {
+   margin-top:220px;
+    margin-left:20px;
+   background-color:#717893;
+    color:white;
+    max-width:120px;
+    opacity:.8;
+}
+
+.middlecheckerbox {
 
 }
+
+.checkerboardRowTwo {
+    margin-right:70px;
+    margin-left:70px;
+    height:100%;
+}
+.checkerboardBottomRow {
+    margin-bottom: 90px;
+}
+
+
+
+
 
