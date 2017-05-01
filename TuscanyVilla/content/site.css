@@ -176,3 +176,18 @@
     opacity:.0;
 }
 
+.contactBar {
+    height:330px;
+    margin:50px 0px;
+}
+
+.control-label {
+    color:#717893;
+}
+
+.contactInfo {
+    color:#717893;
+    margin:30px 100px 0px 50px;
+    max-width:400px;
+    font-weight:bold;
+}
