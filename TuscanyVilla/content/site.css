@@ -126,9 +126,7 @@
    background-color:#717893;
    opacity:.7;
 }
-.fill {
-    object-fit:fill;
-}
+
 
 .checkerboxes {
     margin-top:100px;
@@ -144,11 +142,11 @@
 }
 
 .checkerboxButton p {
-   margin-top:230px;
+    margin-top:230px;
     margin-left:35px;
-   background-color:#717893;
+    background-color:#717893;
     color:white;
-      max-width:95px;
+    max-width:95px;
     opacity:.8;
     padding:6px
 }
@@ -159,7 +157,6 @@
 
 
 .carouselRow {
-   
     height:215px;
     padding-top:100px;
     background-color:#717893;
@@ -191,3 +188,34 @@
     max-width:400px;
     font-weight:bold;
 }
+
+.footer {
+    padding-top:40px;
+    text-align:center;
+    margin-top:0;
+    border-top:0;
+    height:205px;
+    background-color:#717893;
+    color:white;
+}
+
+.glyphicon.glyphicon-chevron-up {
+    color:white;
+    font-size:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
