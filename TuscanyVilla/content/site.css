@@ -20,6 +20,7 @@
 
 .glyphicon.glyphicon-home {
     color: white;
+     margin-left:15px;
 }
 
 .container-fluid {
@@ -58,6 +59,23 @@
 }
 
 /*LOCATIONS*/
+
+.locationOneAndThreeButton {
+     background-color:#717893;
+    color:white;
+      max-width:95px;
+    padding:6px;
+      opacity:.7;
+}
+
+.locationTwoButton {
+    background-color:white;
+    color:#717893;
+     max-width:95px;
+    padding:6px;
+      opacity:.7;
+}
+
 .locBarsOneAndThree {
     margin:70px;
      margin-bottom:70px;
@@ -88,13 +106,14 @@
 
 /*CHECKERBOARD*/
 
+
 .checkerboardTopRow {
-    margin-top:90px;
+    margin-top:95px;
 }
 
-.checkerboardRowOneAndThree {
-    margin-right:70px;
-    margin-left:70px;
+.checkerboardRow {
+    margin-right:95px;
+    margin-left:95px;
     height:100%;
 }
 
@@ -107,39 +126,53 @@
    background-color:#717893;
    opacity:.7;
 }
-.cover {
-    object-fit:cover;
+.fill {
+    object-fit:fill;
 }
 
 .checkerboxes {
     margin-top:100px;
-    text-align: center;
+    text-align: justify;
     color:#717893;
+    max-width:275px;
+    margin-left:50px;
+}
+
+.checkerboxes h3 {
+    margin-left:10px;
+    margin-top:-15px;
 }
 
 .checkerboxButton p {
-   margin-top:220px;
-    margin-left:20px;
+   margin-top:230px;
+    margin-left:35px;
    background-color:#717893;
     color:white;
-    max-width:120px;
+      max-width:95px;
     opacity:.8;
+    padding:6px
 }
 
-.middlecheckerbox {
-
-}
-
-.checkerboardRowTwo {
-    margin-right:70px;
-    margin-left:70px;
-    height:100%;
-}
 .checkerboardBottomRow {
-    margin-bottom: 90px;
+    margin-bottom: 95px;
 }
 
 
+.carouselRow {
+   
+    height:215px;
+    padding-top:100px;
+    background-color:#717893;
+    background: radial-gradient(#717893, white);
+}
 
+.carouselRow p{
+    text-align:center;
+    color:white;
+}
 
+.left.carousel-control,
+.right.carousel-control {
+    opacity:.0;
+}
 
